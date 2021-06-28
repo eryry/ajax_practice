@@ -1,0 +1,25 @@
+
+body{
+  background-color: rgb(182, 134, 134);
+  color: white;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  padding: 30px;
+}
+button {
+  background-color: #fff;
+  border: #fff solid 1px;
+  padding: 6px 20px;
+  border-radius: 20px;
+  margin-top: 20px;
+}
+a {
+  text-decoration: none;
+  color: brown;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  display: block;
+}
+.add_list{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
